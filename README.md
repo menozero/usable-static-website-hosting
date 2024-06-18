@@ -13,7 +13,7 @@ In alphabetic order.
 - [Codeberg Pages](https://codeberg.page/)
 
 - [GitHub Pages](https://pages.github.com/) \ 
-- Jekyll or Actions.
+  Jekyll or Actions.
 
 - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
 
