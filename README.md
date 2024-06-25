@@ -1,6 +1,6 @@
 # Usable Static Website Hosting
 
-A [static website](https://en.wikipedia.org/wiki/Static_web_page) needs a [tool](https://jamstack.org/generators/), an optional [CMS](https://jamstack.org/headless-cms/) and a some hosting.
+A [static website](https://en.wikipedia.org/wiki/Static_web_page) needs a [tool](https://jamstack.org/generators/), an optional [CMS](https://jamstack.org/headless-cms/) and some hosting.
 
 ## The List
 
