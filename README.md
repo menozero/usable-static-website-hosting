@@ -12,6 +12,8 @@ In alphabetic order.
 
 - [Codeberg Pages](https://codeberg.page/)
 
+- https://5apps.com/deploy/home
+
 - [GitHub Pages](https://pages.github.com/) \
   Jekyll or Actions.
 
@@ -20,5 +22,7 @@ In alphabetic order.
 - [Netlify](https://www.netlify.com/)
 
 - [sourcehut pages](https://srht.site/)
+
+- https://www.statichost.eu/
 
 - Vercel
