@@ -10,7 +10,9 @@ In alphabetic order.
 
 - [Cloudflare Pages](https://pages.cloudflare.com/)
 
-- [Codeberg Pages](https://codeberg.page/)
+- [Codeberg Pages](https://codeberg.page/) (old version deprecated)
+
+- [git-pages](https://git-pages.org/) (new version for Codeberg Pages)
 
 - https://5apps.com/deploy/home
 
